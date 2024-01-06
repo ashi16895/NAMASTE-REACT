@@ -20,3 +20,16 @@
 - HTTPs
 - Tree Shaking - remove unsused code
 - Different dev & prod bundles
+
+#React Hooks
+(Normal JS utility functions)
+- useState() => superPowerful state variables
+- useEffect()
+
+Reconciliation algorithm(React Fiber)
+-Virtual DOM : not an actual DOM, an Object which is an represention of actual DOM
+-Diff algorithm: Finds out the difference between two virtual DOMs(Objects), and changes the DOM.
+
+Topics to read
+- key as index antipattern
+- React Fiber
