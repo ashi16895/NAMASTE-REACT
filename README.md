@@ -33,3 +33,7 @@ Reconciliation algorithm(React Fiber)
 Topics to read
 - key as index antipattern
 - React Fiber
+
+# two types of Routing
+-Client Side Routing
+-Server Side Routingß
