@@ -14,6 +14,7 @@ const RestaurantCard = (props) => {
       }}
     >
       <img
+        style={{width: "100%"}}
         className="res-logo"
         alt="res-logo"
         src={CDN_URL + cloudinaryImageId}
