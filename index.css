@@ -36,7 +36,8 @@
 }
 
 .res-card {
-width: 200px;
+width: 250px;
+min-height: 500px;
 border: 1px solid black;
 padding: 5px;
 margin: 20px;
@@ -78,5 +79,10 @@ margin: 20px;
 .login {
     padding: 0px 20px;
     cursor: pointer;
+}
+
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
 }
 
