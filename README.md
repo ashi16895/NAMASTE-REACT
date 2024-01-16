@@ -37,3 +37,11 @@ Topics to read
 # two types of Routing
 -Client Side Routing
 -Server Side Routingß
+
+# Redux Toolkit
+- Install @reduxjs/toolkit and react-redux
+- Build our own store
+- Connect our store to our app
+- Slice (cartSlice)
+- Dispatch action
+- Selector
